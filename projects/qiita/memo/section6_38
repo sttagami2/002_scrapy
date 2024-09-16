@@ -14,5 +14,3 @@ XPath
 価格
 XPath
 //div[@class="price-group"]/span[@class="price"]/text()[1]
-
-CSS

@@ -1,0 +1,26 @@
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: connect-src https:; report-uri https://www.yodobashi.com/ws/api/ap/csp/report
+Cache-Control: no-cache, no-store, post-check=0, pre-check=0
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding,User-Agent
+X-Cnection: close
+X-Akamai-Transformed: 9 46325 0 pmb=mTOE,1mRUM,1
+Content-Encoding: gzip
+Date: Mon, 16 Sep 2024 16:30:44 GMT
+Set-Cookie: yuid=64DD1EF975C6863D2B8767D18D2BEFC2; Path=/; Secure
+Set-Cookie: yid=64DD1EF975C6863D2B8767D18D2BEFC2; Domain=.yodobashi.com; Expires=Sat, 04-Oct-2092 19:44:51 GMT; Path=/; Secure
+Set-Cookie: newses=1; Domain=.yodobashi.com; Expires=Sat, 04-Oct-2092 19:44:51 GMT; Path=/; Secure
+Set-Cookie: uq=af6293f3723581fdd4b3f6db1b3e01b881fa8c0f; Expires=Sat, 04-Oct-2092 19:44:51 GMT; Path=/; Secure
+Set-Cookie: yatpz=C1A5ADF0GndWcGzTiWvwJdzMBw%3D%3D; Domain=.yodobashi.com; Expires=Sun, 15-Dec-2024 16:30:44 GMT; Path=/; Secure
+Set-Cookie: google_crmid=""; Domain=.yodobashi.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+Set-Cookie: JSESSIONID=B408B603A2D0FE70C6956ACF4F877AED; Path=/; Secure; HttpOnly
+Set-Cookie: bm_sz=409D9E67D0361DBEA14FF8A3D4F22870~YAAQU1LNFwg+Ge+RAQAAyRas+xkt1GB+LjFH6E8XcTwkTg/wokaYtjYb7BVqgdFxyqqB1Mgl3yUgfPnlvEoJg+VWJZwqPQjCNSy5CU72U6zDO5dm5ozM6NEjwsKCzXdAtFDLowGmL6q4A2YUv8f5FScgPHnkd9u/DIBqzzY7mH34OD03Y46M197ol5xiTLpDkMepq/w6iXWV+pJGAMM4gHJqUVp3SlqAppc7hUMaElxU9tv7zeWB4Ancn+bPKWtp8zgx1UFdAI733wWWKt7n6HUJieFlWd2hNb59L4WO3afBVlHaBQ1Y0wURj4b/nU1ig/dW9UTGzJFDbZVcPUOChBsa8xwGTE5OZLzWcUfdCcCnWoCM1P7lJhlUo15jIoRkthGFwat5mz2uXRZ9~3421238~4272184; Domain=.yodobashi.com; Path=/; Expires=Mon, 16 Sep 2024 20:30:40 GMT; Max-Age=14396
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=23
+Server-Timing: origin; dur=789
+Server-Timing: ak_p; desc="1726504244118_399331923_4173183977_81072_6539_37_0_-";dur=1

@@ -1,0 +1,21 @@
+Content-Length: 20
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: connect-src https:; report-uri https://www.yodobashi.com/ws/api/ap/csp/report
+Cache-Control: no-cache, no-store, post-check=0, pre-check=0
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Location: /category/19531/500000117014/500000116005/
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-Cnection: close
+Content-Type: text/plain; charset=UTF-8
+Date: Mon, 16 Sep 2024 16:30:40 GMT
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=3
+Server-Timing: origin; dur=3
+Server-Timing: ak_p; desc="1726504240707_399331923_4173176226_571_5178_29_0_-";dur=1
+Set-Cookie: _abck=916FF1FAF9EA0F43EE3E599577110CB1~-1~YAAQU1LNF443Ge+RAQAATgas+wxzPnS57iyGOXvufJo3vAlaGrnyWYrpRg4go/WhvDBsFju4J6QFdJn0QQjuQ3PyXzghwAhirQL0jy2PYcoeUhyTFAdh/EIzD7ZROhucnNM8ouRV0+i5WvDvyHp1TPG+9ZRw8trB+6Tc/BCC1NpydzpTaTTiAII2deh981OW4XVUGwW7/W1Dg0GP2fraCruEyvZ76Gqe9v+vaZWiBqtzEG3A3SJrBUVFSBrJLUkzQhxEvbpl6JQDotQnURjJfDQUUO/yDJmzqWeHu0QiVVwGq4vtfExq6+TiGdaOuTOs+TTCaFHjhGEfUIGn8+7CRY+3/gIcl0bC3u0F2hP48p9ZsXfAqqNiNTjglqeAMyOOMGNOKBG4LXvP8i6i74i6R3HZQ3jZWkrTh7TpWFE=~-1~-1~-1; Domain=.yodobashi.com; Path=/; Expires=Tue, 16 Sep 2025 16:30:40 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=409D9E67D0361DBEA14FF8A3D4F22870~YAAQU1LNF483Ge+RAQAATgas+xlxoYW48hHKeQqo/QySSJs0KOBbUUEyV1+SxCHw7o7fAMseyOd+0etFF45xE5zVfJg2a0Xpe/lYuKF9oIpZjybYD1xsrNzjCZHnz5hXUyXSwTP+5MYvU5oGHdlvtcQiisr4kz2isA/+Vrq2rXSM19ZXcgnAhGfGv0WpTzPdOyttJTWfUDrKoiBGNAp1ARu8SdZ05hBbs+DAozJIn7ewiP2zwEq1/j8WW3vjKEpIggGSizluqt++agWYzvi6aUvKrqtGbVtXpPFO95+Q06+S9Ep5JFLMZbdk9m1v487FixDcDxcQQvX7p8FT2DUQxuDKZKVvgMU9LQE/1qZ30nTsxHQTQ3+F3J0nahoarfGHXUkjkFtK4A==~3421238~4272184; Domain=.yodobashi.com; Path=/; Expires=Mon, 16 Sep 2024 20:30:40 GMT; Max-Age=14400
