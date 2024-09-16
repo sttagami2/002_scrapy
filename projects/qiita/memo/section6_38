@@ -1,0 +1,18 @@
+先祖要素
+XPath
+//div[contains(@class,"shouhinlist")]
+
+CSS
+div.shouhinlist
+
+
+商品名
+XPath
+//div[contains(@class, "textOverflowShohinmei")]/a/span[1]/text()
+
+
+価格
+XPath
+//div[@class="price-group"]/span[@class="price"]/text()[1]
+
+CSS
