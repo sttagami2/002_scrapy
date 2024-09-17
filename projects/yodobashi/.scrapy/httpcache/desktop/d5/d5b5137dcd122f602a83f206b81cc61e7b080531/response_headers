@@ -1,0 +1,23 @@
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: connect-src https:; report-uri https://www.yodobashi.com/ws/api/ap/csp/report
+Cache-Control: no-cache, no-store, post-check=0, pre-check=0
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding,User-Agent
+X-Cnection: close
+X-Akamai-Transformed: 9 40585 0 pmb=mTOE,1mRUM,1
+Content-Encoding: gzip
+Date: Mon, 16 Sep 2024 16:52:47 GMT
+Set-Cookie: newses=0; Domain=.yodobashi.com; Expires=Sat, 04-Oct-2092 20:06:53 GMT; Path=/; Secure
+Set-Cookie: uq=299a191444b1499267baa5d59c2d20766cdc5fb7; Expires=Sat, 04-Oct-2092 20:06:53 GMT; Path=/; Secure
+Set-Cookie: google_crmid=""; Domain=.yodobashi.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+Set-Cookie: JSESSIONID=8A9E95ACDDA82EFA5117AD4EDECC7AA6; Path=/; Secure; HttpOnly
+Set-Cookie: bm_sz=409D9E67D0361DBEA14FF8A3D4F22870~YAAQU1LNFxElIe+RAQAARUPA+xlQskhr7E/Hlqf6e6XJuUFzbMOdiFbH9abKsSV7V2I8MNXO0CoIfN1t6ZXGrZBskF2nwq8K+YNdIc9NErYXtaewlVEaisnCFx19tqWOqghEVBcfDlceSpCyb6sit2mUFJPpA56NhtJuRm7PD9QTUgPVEFMZYdIFFegYMCXu9qDvS1Z76ogbgmQOoApr/lb0V1R+0C00Gi5y4qabrFqruz1ZlZdploJ3zT+6W94DaMyAHMMtyLQ/hV44tHokuRIEG5E4sAYMqd7IHrw9By1EnLtJm8IioSk9GD3GynOEMKRsdCZPDmatSVTSyv0mNd1uOXJK0N2JKQC6hCOndbaMEH/kpv91PqMIgUubjFsaBEf+HyjoqRSB/1VljxOQaqcJGIl7ZDk=~3421238~4272184; Domain=.yodobashi.com; Path=/; Expires=Mon, 16 Sep 2024 20:30:40 GMT; Max-Age=13073
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=9
+Server-Timing: origin; dur=637
+Server-Timing: ak_p; desc="1726505566362_399331923_4177736204_64476_5765_27_31_-";dur=1
