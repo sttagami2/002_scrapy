@@ -14,6 +14,9 @@ NEWSPIDER_MODULE = "yodobashi.spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
+# サイトにアクセスする際のアクセス端末の情報等が載っている。
+# 何も設定していないとスクレイピーでのアクセスだと表示される。
+# サイトによってはスクレイピングの対策がされているので、レスポンスが帰ってこなくなる場合がある。
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 
 # Obey robots.txt rules
