@@ -1,0 +1,16 @@
+Content-Type: text/html; charset=utf-8
+Date: Tue, 17 Sep 2024 06:49:57 GMT
+Vary: Accept-Encoding
+Cache-Control: no-cache="Set-Cookie"
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: script-src 'sha256-89Yi6Ksmnoyqim50GqJzqfTEN1VPLPtnzRsXUMmMBpE=' 'nonce-DBM7445g8DYhrWFrQeTyDQ==' 'self' 'unsafe-inline' https://note.com https://d291vdycu0ht11.cloudfront.net https://d2l930y2yx77uc.cloudfront.net https://cdn.st-note.com https://www.googletagmanager.com https://www.google-analytics.com https://www.googleanalytics.com https://www.googleoptimize.com https://optimize.google.com https://www.gstatic.com/firebasejs https://*.facebook.net https://*.instagram.com https://platform.twitter.com https://*.twimg.com cdn.iframe.ly https://cdn.embedly.com https://*.tiktok.com https://*.tiktokcdn.com https://*.ibytedtos.com https://speakerdeck.com https://*.flickr.com https://*.mul-pay.jp https://stage-travel.fraudprevention.jp https://travel.fraudprevention.jp https://www.datadoghq-browser-agent.com http://cloudfront.loggly.com https://*.canva.com https://*.ttwstatic.com https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://assets.kurashiru.com/ https://cdn2.hubspot.net https://*.hubspot.com https://*.hubspotusercontentxx.net https://*.hscollectedforms.net https://js.hsleadflows.net https://js.hs-scripts.com https://js.hsadspixel.net https://js.hs-analytics.net https://js.hs-banner.com https://js.hs-banner.net https://*.hsforms.net https://*.hsforms.com https://static.hsappstatic.net https://js.hubspotfeedback.com https://feedback.hubapi.com https://static.ads-twitter.com https://static.paypay.ne.jp; object-src 'none'; base-uri 'self'
+Etag: W/"d48ad-nm+jFeEjANYi7p8NDoorlKwModU"
+X-Envoy-Upstream-Service-Time: 844
+Content-Encoding: gzip
+X-Cache: Miss from cloudfront
+Via: 1.1 189f8212fe1ff96b2d61f90ee88f7b20.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: NRT20-P2
+X-Amz-Cf-Id: dVIcYuVdNGOmiHNre41rIgCANNmUMPvuTHVkvSvI7xBXf6icL27Swg==
